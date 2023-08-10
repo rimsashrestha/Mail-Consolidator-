@@ -1,0 +1,15 @@
+/Users/rimsashrestha/Projects/MailConsolidator/MailConsolidator/bin/Debug/net7.0/MailConsolidator
+/Users/rimsashrestha/Projects/MailConsolidator/MailConsolidator/bin/Debug/net7.0/MailConsolidator.deps.json
+/Users/rimsashrestha/Projects/MailConsolidator/MailConsolidator/bin/Debug/net7.0/MailConsolidator.runtimeconfig.json
+/Users/rimsashrestha/Projects/MailConsolidator/MailConsolidator/bin/Debug/net7.0/MailConsolidator.dll
+/Users/rimsashrestha/Projects/MailConsolidator/MailConsolidator/bin/Debug/net7.0/MailConsolidator.pdb
+/Users/rimsashrestha/Projects/MailConsolidator/MailConsolidator/obj/Debug/net7.0/MailConsolidator.csproj.AssemblyReference.cache
+/Users/rimsashrestha/Projects/MailConsolidator/MailConsolidator/obj/Debug/net7.0/MailConsolidator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rimsashrestha/Projects/MailConsolidator/MailConsolidator/obj/Debug/net7.0/MailConsolidator.AssemblyInfoInputs.cache
+/Users/rimsashrestha/Projects/MailConsolidator/MailConsolidator/obj/Debug/net7.0/MailConsolidator.AssemblyInfo.cs
+/Users/rimsashrestha/Projects/MailConsolidator/MailConsolidator/obj/Debug/net7.0/MailConsolidator.csproj.CoreCompileInputs.cache
+/Users/rimsashrestha/Projects/MailConsolidator/MailConsolidator/obj/Debug/net7.0/MailConsolidator.dll
+/Users/rimsashrestha/Projects/MailConsolidator/MailConsolidator/obj/Debug/net7.0/refint/MailConsolidator.dll
+/Users/rimsashrestha/Projects/MailConsolidator/MailConsolidator/obj/Debug/net7.0/MailConsolidator.pdb
+/Users/rimsashrestha/Projects/MailConsolidator/MailConsolidator/obj/Debug/net7.0/MailConsolidator.genruntimeconfig.cache
+/Users/rimsashrestha/Projects/MailConsolidator/MailConsolidator/obj/Debug/net7.0/ref/MailConsolidator.dll

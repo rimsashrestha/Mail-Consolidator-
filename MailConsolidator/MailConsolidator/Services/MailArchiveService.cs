@@ -36,6 +36,7 @@ namespace MailConsolidator.Services
             }
         }
 
+        //Creates a Zip file in Archive Folder
         private static void CreateZipFile(IEnumerable<FileInfo> files, string archiveName)
         {
             using (var stream = new FileStream(archiveName ,FileMode.CreateNew))

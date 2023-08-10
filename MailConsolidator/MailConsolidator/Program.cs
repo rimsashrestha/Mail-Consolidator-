@@ -8,8 +8,8 @@ namespace MailConsolidator
         static void Main(string[] args)
         {
 
-            /*MailArchiveService mailArchive = new MailArchiveService();
-            mailArchive.Archive(new DateTime(2023, 08, 08));*/
+            MailArchiveService mailArchive = new MailArchiveService();
+            mailArchive.Archive(new DateTime(2023, 08, 08));
 
             LetterService letter = new LetterService();
             string path1 = @"/Users/rimsashrestha/Desktop/CombinedLetters/Input/Admission/20230808/admissions-00000002.txt";

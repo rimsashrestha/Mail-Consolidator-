@@ -7,7 +7,8 @@ namespace MailConsolidator.Services
 	public class LetterService : ILetterService
 	{
         string destPath = @"/Users/rimsashrestha/Desktop/CombinedLetters/Output/CombinedOutput";
-    
+
+     	//Combines two letters if the student IDs match
         public void CombineTwoLetters(string inputFile1, string inputFile2)
         {
             string file1StudentID = inputFile1.Substring(inputFile1.Length - 12);

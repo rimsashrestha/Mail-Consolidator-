@@ -1,6 +1,6 @@
 # Mail-Consolidator-
 
-How to test the app
+How to test the app:
 
 1. Create the following folders (Folder structure as per pdf. attached :)
    <img width="363" alt="image" src="https://github.com/rimsashrestha/Mail-Consolidator-/assets/31632794/6b962508-f4be-4486-9bd0-0c5269dbbc3e">
